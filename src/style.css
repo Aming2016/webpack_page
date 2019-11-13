@@ -1,0 +1,12 @@
+@font-face{
+    font-family: 'MyFont';
+    src: url('../static/font/FZZJ-QDXKJW.ttf') format('ttf');
+    font-weight: 600;
+    font-style:normal;
+}
+.hello{
+    color:red;
+    background:url('../static/imgs/one.png');
+    font-family: 'MyFont';
+}
+
